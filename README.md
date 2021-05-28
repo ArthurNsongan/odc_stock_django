@@ -1,0 +1,1 @@
+# odc_stock_django
